@@ -1,6 +1,6 @@
 import './App.css';
 import ColorBlock from './ColorBlock';
-import ColorForm from './ColorForm';
+import ColorForm from './colorform';
 import React, { useState } from 'react';
 
 const DEFAULT_COLORS = [
